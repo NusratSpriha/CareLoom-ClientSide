@@ -10,7 +10,7 @@ const Testimonials = () => {
     {
       image: `${person1}`,
       title: "An amazing service",
-      name: "John Doe",
+      name: "Nadia Jahan",
       designation: "CEO, Tech Innovations",
       comment:
         "The service exceeded our expectations with its professionalism and efficiency.",
@@ -18,7 +18,7 @@ const Testimonials = () => {
     {
       image: `${person2}`,
       title: "One of a kind service",
-      name: "Jane Smith",
+      name: "Rita ",
       designation: "Marketing Director, Creative Solutions",
       comment:
         "Unique and tailored to our needs, this service truly stands out from the rest.",
@@ -26,7 +26,7 @@ const Testimonials = () => {
     {
       image: `${person3}`,
       title: "The best service",
-      name: "David Brown",
+      name: "Sami",
       designation: "Founder, Startup Hub",
       comment:
         "Exceptional service with top-notch quality. We highly recommend it.",
